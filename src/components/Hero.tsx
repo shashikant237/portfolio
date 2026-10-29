@@ -115,7 +115,7 @@ export default function Hero() {
         >
           <div className="relative z-10 w-full max-w-[450px] aspect-[4/5] rounded-[2.5rem] overflow-hidden group shadow-2xl ring-1 ring-white/10">
             <img
-              src="https://ibb.co/rfFFLHcN"
+              src="[url=https://ibb.co/rfFFLHcN][img]https://i.ibb.co/cXkkpQCV/soft-skill-Presentation.png[/img][/url]"
               alt="Shashikant Jha"
               className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110 grayscale hover:grayscale-0"
               referrerPolicy="no-referrer"
