@@ -4,7 +4,7 @@ import { GraduationCap, Code, Briefcase, Award } from "lucide-react";
 export default function About() {
   const stats = [
     { label: "Projects", value: "4+", icon: Code },
-    { label: "Learning", value: "2nd Year", icon: GraduationCap },
+    { label: "Learning", value: "3rd Year", icon: GraduationCap },
     { label: "Certifications", value: "5+", icon: Briefcase },
   ];
 
